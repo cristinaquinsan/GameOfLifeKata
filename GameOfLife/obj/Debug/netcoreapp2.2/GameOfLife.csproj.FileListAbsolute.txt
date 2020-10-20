@@ -1,0 +1,9 @@
+C:\Users\cquintana\source\repos\GameOfLife\GameOfLife\C#\GameOfLife\bin\Debug\netcoreapp2.2\GameOfLife.deps.json
+C:\Users\cquintana\source\repos\GameOfLife\GameOfLife\C#\GameOfLife\bin\Debug\netcoreapp2.2\GameOfLife.dll
+C:\Users\cquintana\source\repos\GameOfLife\GameOfLife\C#\GameOfLife\bin\Debug\netcoreapp2.2\GameOfLife.pdb
+C:\Users\cquintana\source\repos\GameOfLife\GameOfLife\C#\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.csprojAssemblyReference.cache
+C:\Users\cquintana\source\repos\GameOfLife\GameOfLife\C#\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\cquintana\source\repos\GameOfLife\GameOfLife\C#\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.AssemblyInfo.cs
+C:\Users\cquintana\source\repos\GameOfLife\GameOfLife\C#\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\cquintana\source\repos\GameOfLife\GameOfLife\C#\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.dll
+C:\Users\cquintana\source\repos\GameOfLife\GameOfLife\C#\GameOfLife\obj\Debug\netcoreapp2.2\GameOfLife.pdb
